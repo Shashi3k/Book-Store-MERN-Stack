@@ -27,7 +27,7 @@ To get started with the Book Management Web App, follow these steps:
 
 1. Clone this repository.
    ```bash
-   git clone 
+   git clone https://github.com/Shashi3k/book-store-MERN-stack.git
 
 cd server
 npm install
